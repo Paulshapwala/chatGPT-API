@@ -1,0 +1,6 @@
+hello
+hello
+Hello! How can I assist you today?
+calculus
+what is calculus?
+Calculus is a branch of mathematics that deals with the study of rates of change and accumulation. It involves the study of functions, limits, derivatives, integrals, and infinite series. Calculus is used in a variety of fields, such as physics, engineering, economics, and computer science, to solve problems that involve continuous change and optimization. It is a fundamental tool for modeling and understanding complex systems that involve dynamic behavior.
